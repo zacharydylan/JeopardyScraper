@@ -1,6 +1,5 @@
 var cron = require('cron').CronJob;
 var fs = require('fs');
-var moment = require('moment');
 var request = require('request');
 var path = require('path');
 var express = require('express');
