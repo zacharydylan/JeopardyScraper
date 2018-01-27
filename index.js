@@ -1,4 +1,3 @@
-var You = require('youtube-dl');
 var cron = require('cron').CronJob;
 var fs = require('fs');
 var moment = require('moment');
